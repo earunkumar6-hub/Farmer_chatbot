@@ -1,0 +1,38 @@
+PM-KISAN Scheme — Farmer Reference Note
+
+PM-KISAN (Pradhan Mantri Kisan Samman Nidhi) is a central government income-support
+scheme for landholding farmer families across India.
+
+Benefit structure:
+- Eligible farmer families receive financial assistance in three equal installments.
+- Payments are transferred directly into the farmer's bank account using the
+  Direct Benefit Transfer (DBT) mode.
+- The amount is meant to support the purchase of inputs like seeds, fertilizer,
+  and other cultivation expenses.
+
+Eligibility (general guidance):
+- The scheme covers landholding farmer families, subject to state government and
+  UT verification of land records.
+- Certain categories are excluded, such as institutional landholders, farmer
+  families holding constitutional posts, serving or retired government employees
+  above a specified pay level, and income-tax payees, among other exclusions
+  defined by the scheme guidelines.
+- Farmers must complete e-KYC (electronic Know Your Customer) to remain eligible
+  for continued installments.
+
+How to apply or check status:
+- New farmers can register through the Common Service Centre (CSC) in their
+  village or through the state agriculture department.
+- Existing beneficiaries can check installment status using their Aadhaar number
+  or registration number on the official PM-KISAN portal.
+- Any mismatch between Aadhaar details and bank account details can delay or
+  block a payment, so farmers should keep both records updated and consistent.
+
+Common issues farmers report:
+- Installment not credited: usually due to pending e-KYC, land record
+  verification pending, or bank account/Aadhaar seeding mismatch.
+- Name spelling mismatch between Aadhaar and land records causing rejection.
+
+For exact eligibility in a specific state, the local Village Agriculture Assistant
+(VAA) or the Krishi Vigyan Kendra (KVK) should be consulted, since state-level
+land verification rules can vary.

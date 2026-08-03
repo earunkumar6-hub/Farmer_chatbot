@@ -1,0 +1,45 @@
+Paddy (Rice) Pest Management — Field Reference Note
+
+Stem Borer
+- Symptom: "dead heart" in the vegetative stage (central shoot dries up) and
+  "white ear" during the reproductive stage (empty, whitish panicle).
+- Cultural control: remove and destroy stubble after harvest, since larvae
+  survive in stubble; avoid staggered planting in the same block, which lets
+  the pest cycle continuously between fields.
+- Biological control: conserve natural enemies such as Trichogramma egg
+  parasitoids; avoid unnecessary broad-spectrum insecticide sprays early in
+  the season, as these kill natural enemies along with the pest.
+- Monitoring: install pheromone traps to track adult moth activity and time
+  interventions instead of spraying on a fixed calendar.
+
+Brown Planthopper (BPH)
+- Symptom: yellowing and drying of plants in patches, often starting at the
+  base and spreading outward — sometimes called "hopper burn."
+- Favorable conditions: dense planting, excess nitrogen fertilizer, and
+  continuous flooding all favor BPH buildup.
+- Management: avoid excess nitrogen; maintain alternate wetting and drying
+  instead of continuous standing water where feasible; encourage predators
+  like spiders and mirid bugs by minimizing insecticide use unless the
+  population crosses the locally recommended threshold.
+
+Leaf Folder
+- Symptom: leaves folded longitudinally with the larva feeding inside,
+  leaving visible white streaks.
+- Management: this pest is usually tolerated up to a moderate level of leaf
+  damage without yield loss, since rice compensates well; intervention is
+  generally only needed if folding is severe and sustained across the crop
+  canopy.
+
+General integrated pest management (IPM) principles for paddy:
+- Use resistant or tolerant varieties recommended for the local agro-climatic
+  zone where available.
+- Follow synchronized planting within a block to break the pest life cycle.
+- Scout the field regularly (at least weekly) rather than spraying on a fixed
+  schedule.
+- Use chemical control only when pest levels cross the Economic Threshold
+  Level (ETL) recommended for that pest and region, and always follow the
+  label dose and pre-harvest interval.
+
+For dosage-specific chemical recommendations, consult the current state
+agriculture department advisory or the local Krishi Vigyan Kendra, since
+approved molecules and doses are updated periodically.

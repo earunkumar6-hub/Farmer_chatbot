@@ -1,0 +1,25 @@
+# --- Backend (FastAPI + LangChain RAG pipeline) ---
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.1
+
+langchain-core>=1.0.0,<2.0.0
+langchain-text-splitters>=1.0.0,<2.0.0
+langchain-openai>=1.0.0,<2.0.0
+
+# NOTE: langchain-community supplies PyPDFLoader, TextLoader, and FAISS below.
+# The LangChain team is sunsetting this package (repo archived June 2026,
+# integrations migrating to dedicated per-provider packages). It still works
+# as of this writing and just prints a one-line deprecation notice on import.
+# If it stops receiving updates, swap the vector store to `langchain-chroma`.
+langchain-community>=0.4.0
+
+faiss-cpu>=1.8.0
+pypdf>=4.2.0
+tiktoken>=0.7.0
+openai>=1.35.0
+
+# --- Frontend (Streamlit chat UI) ---
+streamlit>=1.36.0
+requests>=2.32.0
