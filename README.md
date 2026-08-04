@@ -1,4 +1,4 @@
-# 🌾 Kisan Mitra AI — Farmer's Agriculture RAG Chatbot
+# 🌾Farmer's Agriculture RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot for farmers, now split into a proper
 **FastAPI backend** (the actual LangChain/OpenAI pipeline) and a **Streamlit chat
